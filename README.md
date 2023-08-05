@@ -1,4 +1,9 @@
-# Hi! :v: I'm Adam and I'm a Ph.D. candidate in human geography at Charles University 🇨🇿
+# Hi there! :v: 
+
+My name is Adam  and I'm a Ph.D. candidate in human geography at Charles University 🇨🇿 
+
+My no. 1 passion right now is using modern data technologies to further social scientific research and contribute to solving long lasting problems such as poverty, social exclusion, and discrimination.
+
 **About me:**
 
 - 💬 Talk to me in: 🇨🇿 :us: :fr:
