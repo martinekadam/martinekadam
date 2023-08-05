@@ -10,7 +10,7 @@
 
 **Reach me on:**
 - 👉 IG: [@_martinekadam](instagram.com/_martinekadam)
-- :point_right: LinkedIn: https://www.linkedin.com/in/adam-martinek-35b30b20b/
+- 👉 LinkedIn: https://www.linkedin.com/in/adam-martinek-35b30b20b/
 
 
 
