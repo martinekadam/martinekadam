@@ -1,16 +1,16 @@
 # Hi! :v: I'm Adam and I'm a Ph.D. candidate in human geography at Charles University 🇨🇿
 **About me:**
 
-- :bearded_person: My pronouns are: *He/They*
-- :speech_balloon: I speak: 🇨🇿 :us: :fr:
-
+- 💬 Talk to me in: 🇨🇿 :us: :fr:
 - 👷 I work as: *a research and teaching assistant*
-- :mechanical_arm: My specialties are: *urban geography, innovative research methods, social inequality research*
-- :technologist: I program in: *R, Python, SQL*
-
-**Reach me on:**
-- 👉 IG: [@_martinekadam](instagram.com/_martinekadam)
-- 👉 LinkedIn: https://www.linkedin.com/in/adam-martinek-35b30b20b/
+- 🧑‍🏫 Teaching courses on:
+  - *online GIS*
+  - *data visualization*
+  - *urban geography*
+- 🔧 Currently working on:
+  - *web scraping public data for good*
+- 🧑‍💻 I love programming in: *R, Python, SQL*
+- 🌠 Future aspirations: *become real good at data science 😎*
 
 
 
